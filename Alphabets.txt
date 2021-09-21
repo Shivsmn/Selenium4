@@ -5,9 +5,13 @@ D
 E
 F
 G
+<<<<<<< HEAD
 IJK
 lmn
 O
 Today is Friday
 P-Q-R
 
+=======
+IJK
+>>>>>>> parent of 619e132 (Added lmn)
